@@ -1,4 +1,4 @@
-# create-session-example
+# ConnectyCube create session API examples
 A repo with requests example how to create ConnectyCube session
 
 ## Have an issue?
